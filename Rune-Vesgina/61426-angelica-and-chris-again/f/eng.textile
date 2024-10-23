@@ -6,7 +6,7 @@ Author: Rune Vesgina
 
 For those of you who don't understand where Chris comes from, this is the previous episode about Chris.
 
-$iframe data-embed-src="https://www.omorashi.org/topic/61343-angelicas-first-accident/?tab=comments&do=embed&comment=1805035&embedComment=1805035&embedDo=findComment#comment-1805035"
+$/61343-angelicas-first-accident/
 
 Hope you enjoyed the fiction I made, thanks.
 
