@@ -10,7 +10,7 @@ Shameless advertisement:
 
 1) First fiction:
 
-$iframe data-embed-src="https://www.omorashi.org/forums/topic/42550-rakanlivesmatter/?do=embed"
+$/42550-rakanlivesmatter/?do=embed"
 
 Authors' notes:
 
