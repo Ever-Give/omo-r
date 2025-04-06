@@ -10,7 +10,7 @@ In this thread I will be posting a collection of Short Stories, some continuous,
 
 If you aren't familiar with Night of the Omorashi, it is an interactive Story I have going on in the Interactive Story section where your every decision will determine whether you survive or die. Feel free to check it out and participate should you want to. The more players the better!
 
-$iframe data-embedcontent="" frameborder="0" src="//www.omorashi.org/applications/core/interface/js/spacer.png" data-embed-src="https://www.omorashi.org/topic/32634-night-of-the-omorashi/?do=embed"
+$/32634-night-of-the-omorashi/
 
 In all likelihood, the content of the Shorts within this thread will directly relate to what is going on within the game. Whether it be backstory, or the lives of a group of survivors before current time.
 
